@@ -1,0 +1,89 @@
+.container {
+  background: rgba(219, 173, 252, 0.87);
+  margin: 35px;
+  width: 17rem;
+  border-radius: 10px;
+  display: inline-block;
+  transition: all 400ms ease;
+  box-sizing: content-box;
+  min-height: 150px;
+  border-color: #863ac9da;
+  border-width: 1.5px;
+  border-style: solid;
+
+}
+
+
+h3 {
+  font-family: fantasy;
+  font-size: 20px;
+  color: #f855ca;
+  text-decoration: none; 
+}
+
+li {
+  list-style-type: none;
+  color: #300358;
+  text-decoration-line: none;
+  /* display: inline; */
+  padding-left: 3px;
+  padding-right: 3px;
+  font-family: fantasy;
+  text-decoration: none;
+}
+
+.imag {
+  height: 110px;
+  width: 180px; 
+  margin: 1px;
+  padding: 3px;
+  border: 2px solid rgb(115, 210, 248);
+}
+
+
+
+/* //.stylesCard {
+    background: rgba(210, 170, 247, 0.87);
+    margin: 35px;
+    width: 17rem;
+    border-radius: 10px;
+    display: inline-block;
+    transition: all 400ms ease;
+    box-sizing: content-box;
+    min-height: 150px;
+    border-color: #22043dda;
+    border-width: 1.5px;
+    border-style: solid;
+  }
+  
+  .stylesCard:hover {
+    box-shadow: 20px 20px 20px rgb(0, 0, 0, 0, 4);
+    transform: translateY(-3%);
+  }
+  
+  .name {
+    font-family: "Sofia", cursive;
+    font-size: 20px;
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  .typeStyle {
+    list-style-type: none;
+    color: #2e023b;
+    text-decoration-line: none;
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-family: "Merienda", cursive;
+    text-decoration: none;
+  }
+  
+  ul li {
+    text-decoration-line: none;
+    list-style-type: none;
+    text-align: center;
+    align-content: center;
+  }
+   */
+   

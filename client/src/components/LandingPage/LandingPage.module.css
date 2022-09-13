@@ -1,0 +1,43 @@
+.background{
+    height:750px;
+    overflow-y: hidden ! important;
+    overflow-x: hidden ! important;
+    background-image: url('http://cdn28.us1.fansshare.com/photograph/pikachu/pokemon-pc-game-wallpaper-1208440414.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(237, 137, 7);
+    font-family:fantasy
+} 
+
+
+.h1{
+    text-align: start;
+    margin-left: 3%;
+    color: rgb(104, 178, 252);
+    text-decoration: underline deeppink;
+}
+
+.btn{
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    display: inline-block;
+    margin: 20%;
+    padding: 15px 30px;
+    background-color: rgb(237, 137, 7);
+    color:rgb(3, 3, 1);
+    letter-spacing: 4px;
+    font-size: 24px;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 1s;
+    border: none;
+    border-radius: 2px; 
+}
+
+.btn:hover{
+    cursor:pointer ;
+    background: #ffff42;
+    box-shadow: 0 0 10px rgb(237, 137, 7), 0 0 40px
+    rgb(237, 137, 7), 0 0 80px rgb(237, 137, 7);
+}
